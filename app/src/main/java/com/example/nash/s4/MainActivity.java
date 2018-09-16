@@ -164,6 +164,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     case 1:
                         btnConn.setText(R.string.UNLOCK);
                         btnStat = 2;
+                        updateFragment();
                         break;
                     case 2:
                         btnConn.setText(R.string.LOCK);

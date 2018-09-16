@@ -1,0 +1,63 @@
+{
+  "CategoryName": "Config",
+  "Item": [
+    {
+      "Label": "MMSI",
+      "Value": ["923223112"],
+      "ValueType": "2"
+    },
+    {
+      "Label": "Ship Name",
+      "Value": ["Durian Runtuh"],
+      "ValueType": "1"
+    },
+    {
+      "Label": "AIS Serial",
+      "Value": ["AK1222322"],
+      "ValueType": "0"
+    },
+    {
+      "Label": "Hopper 1",
+      "Value": [
+        "enable",
+        "disable"
+      ],
+      "ValueType": "4"
+    },
+    {
+      "Label": "Hopper 2",
+      "Value": [
+        "enable",
+        "disable"
+      ],
+      "ValueType": "4"
+    },
+    {
+      "Label": "Sonar",
+      "Value": [
+        "enable",
+        "disable"
+      ],
+      "ValueType": "4"
+    },
+    {
+      "Label": "Min",
+      "Value": ["0"],
+      "ValueType": "2"
+    },
+    {
+      "Label": "Max",
+      "Value": ["5000"],
+      "ValueType": "2"
+    },
+    {
+      "Label": "Deploy",
+      "Value": [
+        "yes",
+        "no",
+        "test"
+      ],
+      "ValueType": "4"
+    }
+  ]
+}

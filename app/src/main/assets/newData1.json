@@ -1,0 +1,25 @@
+{	
+"CategoryName"	:"Monitor",
+"CategoryIndex"	:1,		
+"Item"	: [ 
+	{	"Label"	:"Voltage",
+		"Value"	:"12.7",
+		"ValueType":0
+	},
+	{	"Label"	:"Current",
+		"Value"	:"0.7",
+		"ValueType":0
+	},
+	{	"Label"	:"SENSOR",
+		"ValueType":5
+	},
+	{	"Label"	:"Sensor install",
+		"Value"	:"OK",
+		"ValueType":0
+	},
+	{	"Label"	:"Sensor stat",
+		"Value"	:"OK",
+		"ValueType":0
+	}
+]				
+}

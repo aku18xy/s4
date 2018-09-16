@@ -1,0 +1,52 @@
+{
+	"Title":"GreenFinder DDMS",
+	"Category":[
+		{	"Name"	:"Config"	,
+			"Type"	:1,
+			"Item"	: [
+				{	"Label"	:"MMSI",
+					"Value"	:null,
+					"ValueType":2
+				},
+				{	"Label"	:"Ship Name",
+					"Value"	:null,
+					"ValueType":1
+				},
+				{	"Label"	:"SENSOR",
+					"ValueType":5
+				},
+				{	"Label"	:"Sensor install",
+					"Value"	:["OK","TAK OK"],
+					"ValueType":4
+				},
+				{	"Label"	:"Sensor stat",
+					"Value"	:["OK"],
+					"ValueType":1
+				}
+			]
+		},
+		{	"Name"	:"Monitor"	,
+			"Type"	:0,
+			"Item"	: [
+				{	"Label"	:"Voltage",
+					"Value"	:["12.1"],
+					"ValueType":0
+				},
+				{	"Label"	:"Current",
+					"Value"	:["0.5"],
+					"ValueType":0
+				}
+			]
+		},
+		{	"Name"	:"Report",
+			"Type"	:1
+		},
+		{	"Name"	:"Task",
+			"Type"	:1
+		},
+		{	"Name"	:"Done",
+			"Type"	:0
+		}
+	]
+}								
+

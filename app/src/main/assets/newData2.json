@@ -1,0 +1,14 @@
+{	
+"CategoryName"	:"Monitor",
+"CategoryIndex"	:1,		
+"Item"	: [ 
+	{	"Label"	:"Voltage",
+		"Value"	:"12.1",
+		"ValueType":0
+	},
+	{	"Label"	:"Current",
+		"Value"	:"0.5",
+		"ValueType":0
+	}
+]				
+}

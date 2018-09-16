@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">s4</string>
+
+    <string name="SCAN">SCAN</string>
+    <string name="LOCK">LOCK</string>
+    <string name="UNLOCK">UNLOCK</string>
+    <string name="value1"><![CDATA[<value1>]]></string>
+    <string name="SELECT">please select</string>
+    
+    <string-array name="YESorNO">
+        <item>YES</item>
+        <item>NO</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
